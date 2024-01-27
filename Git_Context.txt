@@ -59,7 +59,11 @@ Commit: Save the changes happend in the WorkingRepository to the LocalRepository
 
 Push:	Push the files from WorkingRepository to RemoteRepository.
 
-	git push origin master	:	Push to the RemoteRepository master branch.
+	git push origin	:	Push to the RemoteRepository master branch.
+	
+	git push origin NewBrnach: Push new branch to the RemoteRepository (NewBrnach will create)
+	
+	git push origin --delete NewBrnach : Delete the Branch from the RemoteRepository.
 	
 fetch:	pull the files from RemoteRepository to LocalRepository.
 
