@@ -1,3 +1,6 @@
 This file for testing the git concepts:
 
 chekcing: Rebasing concept
+
+
+Checking: Merging - commit creating
