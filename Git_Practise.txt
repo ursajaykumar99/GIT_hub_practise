@@ -3,4 +3,4 @@ This file for testing the git concepts:
 chekcing: Rebasing concept
 
 
-Checking: Merging - commit creating
+Checking: Merging - commit creating with 4 commits.
