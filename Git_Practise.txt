@@ -1,6 +1,15 @@
 This file for testing the git concepts:
 
-chekcing: Rebasing concept
+Checking : Stashing 
 
+1. If i switch to other branch without Commiting a file. What will happen?
 
-Checking: Merging - commit creating with 4 commits.
+A. Will it allow to switch.
+
+B. Not allow
+
+c. Allow But changes will be dropped
+
+d. Allow even though changes will not dropped
+
+Ans: Option D
